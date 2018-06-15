@@ -1,1 +1,3 @@
 # HW15_JusongCai
+
+In HW15, I designed wheels and car body parts by using Onshape website. All are in SLDPRT files. For 3D printing files and assembly files, they are not included in the repo. Since this design was completed after reference, I only altered some design details at the time when doing work at 3D printer and laser cut machine. So they are not reflected in the files, but shown as pictures attached in this repo. See those two jpg files.
